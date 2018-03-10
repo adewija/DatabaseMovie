@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/b76125747fcd8e4519140f7e459868fc50d00a1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_306a5ec16e3e1264b6e5cadccb2f605caf5f8b80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_08d26bda3b21abee8f77db0daeddefdbc89ff5db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0/dff931af436f0a2815d0109ab2258bbce2d6275d/glide-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-4.0.0_ae6b36bebe778afbcbf2f75cd07b4e5fd9a46eb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_753682314e2d053b6b0aca22309622f2fe9f59b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/1568b0eec20dae435005607900ac0afbecd8f279/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e46aec73039a1eedf34043905721d56bc7807aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/c7285a571fd31cb450e7502777adbecfdabbddda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39306f39e8c500377abfc1cdf4c763b7492b9526/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/684d828f3d0f1561b1352d31796cceac46a0c8b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1956003874f012f5141fd1bc3d8752c85ac988ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.3.0_24589a7080a774648c3709b2691708cf273fdf26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0/47c487cc4e64e6ab127a517669ca9a7b49f8c61d/gifdecoder-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/gifdecoder-4.0.0_9a7479b9ba8ae740fc71ac24d6749d0470a96ead/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/0f661a04e9c80cae16c2f8d37d344d6eecf097cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23020fa0f67ce9ad2adeb71e1a1405b62f4e433b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_5aec41986a6e535955fe1cc71d3332cbf106aced/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/8835cf531bfbed1e70402741ea87801fb322b600/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70415f8496a9ba2aaed6b877e36399e042e01df3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/4fb075396cc345063d291d13fcd10311e251e465/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a062359e25e866741f17c3b2c18d0a3372c7fde7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_63844633ab150e679ca6e3898418307ed7d72e74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.8.1_1402bcc13408cb79394db1dbbb7d3962f6efd496/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_243b4dbc3ce5f55c732649a145b3be1b1c866afe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4b1a948edc8ed6e30ec93670e4d8c38ded34cf1">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f2ad79b5a59a6d2b6dc662e0a67e80d48364d028/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/a42b70739e8e5a81a5b8ab37df589cf2a999d9fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63a561b455d576ac742d2344b2c5c0efd5ffad02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/702ff463135377919a29a53e5303db75bbb92694/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5446e255ff86edad9b4671ce0007c13376311a2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0/d88059003509074dd59fa226c822724bcf5ec0ca/disklrucache-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/disklrucache-4.0.0_a08249add46622a6acaa6882f62b8ea4ba89302b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/6e8a7fd120f42ee9a5e8094698c02fefd00a5976/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71021769266b3da12aac4d8c10d88328bb9fc004/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/c09a6fd738f60303caa8958dbb9e7b97ed75312b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48ad77c19ac5dfab5fc4ea3ce83ac1bc77c5f8e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/2563e599a040051142679607279e32b36fb4209a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_479f8ac535d04cab9f55017c1272153c1a780495/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/05b6b22421fb2ec4399ebf0a3229f4fa7a63c0ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bdcc2fe6d2eda24837a3435064ddf8df92f32656/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/113cc6b1da8a31b8ab66d45ee9b66b1ea0e34968/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f530677cee143fef6f216fad1cc7094efc1e61c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/25fc33977a4dac93d73cc1d6fbbdff976df5c439/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fd0e5d75bf14be012370bbdde1454c464d5ab77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_9c3abb2068152ea23eb03843d914047472050118/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/3383e10a3b31933468dcb741ac0076efd9d6aeea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e9f198f82d45784ede79be9400a62bf7607f245/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0/f80192e6fd828d41c7da6f3552b0bef5d89cb26e/annotations-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-4.0.0_db53f9a00e6b2885da3b864d9739c644d938f60e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/30c5f7177196cb0909b612b3b70d31f54b0f1ee2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_674512e66adc7508c1d14f5654f6de2f79d903b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/9a7ead4cd7ade3be459ddd0b90b5be94ae9ef4ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44914cc3c40b3fc8c4074577e802d2a03c93065d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/4a28a495a8205eef07d9c967710358010a51e26b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5351658cfc7f0140700e478fb17150fb792f35ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/c6e5e1e6409c2adf5a897355ac65382c7bce18c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/DatabaseMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce1137765dff5f1a54c963733f9d7622c565ccaf/classes.dex" />
+    </item>
+
+</items>
